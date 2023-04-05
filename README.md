@@ -6,9 +6,9 @@ Full Stack Developer
 
 I'm a college student from Universitas Kristen Satya Wacana. I love being a back-end developer, but I can do some front-end programming too. Now I'm currently working on a Qua-Edutechno Startup Company.
 
-*   🌍  I'm based in Indonesia
-*   🧠  I'm learning Javascript
-*   🤝  I'm open to collaborating on Software Development
+*   🌍  I'm Indonesian
+*   🧠  I'm currently learning Javascript
+*   🤝  I'm open to collaborating on any Software Development
 
 ### Skills 
 <p align="left">
